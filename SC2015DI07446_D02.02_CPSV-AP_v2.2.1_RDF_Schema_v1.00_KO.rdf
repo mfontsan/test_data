@@ -26,6 +26,7 @@
 	
     <dc:description xml:lang="en">The original CPSV-AP was prepared in the context of Action 1.3 – Accessing Member State information resources at European level – Catalogue of Services  of the European Commission’s Interoperability for European Public Administrations (ISA) programme. The CPSV-AP has been seen as a first step for creating a model for describing public services related to business events, to facilitate the set-up of catalogues of services in the context of the Services Directive. Update to version 2.2 finds its motivation in the experience of implementing version 2.1 of the CPSV-AP by different MSs and stakeholders and consequent requests received from them, as detailed in https://github.com/catalogue-of-services-isa/CPSV-AP/issues.</dc:description>
     <dc:description xml:lang="en">A second description.</dc:description>
+    <!--dc:title xml:lang="en">Core Public Service Vocabulary Application Profile</dc:title-->
   </owl:Ontology>
 
   <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/hasVersion">
