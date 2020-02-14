@@ -1,6 +1,9 @@
 @prefix po:  <http://itb.ec.europa.eu/sample/po#> .
 @prefix sh:  <http://www.w3.org/ns/shacl#> .
 
+<http://itb.ec.europa.eu/sample/po> 
+	a owl:Ontology ;
+	owl:imports <http://datashapes.org/schemashacl.shapes.ttl> .
 #
 # Rule for large purchase orders
 #
