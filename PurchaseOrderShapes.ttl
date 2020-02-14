@@ -7,6 +7,7 @@
 
 <http://itb.ec.europa.eu/sample/po> 
 	a owl:Ontology ;
+	owl:imports <http://datashapes.org/schemashacl.shapes.ttl> ;
 	owl:imports <https://raw.githubusercontent.com/mfontsan/test_data/master/LargePurchaseOrderShapes.ttl> .
 
 #
