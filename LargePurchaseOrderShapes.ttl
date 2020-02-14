@@ -1,5 +1,6 @@
 @prefix po:  <http://itb.ec.europa.eu/sample/po#> .
 @prefix sh:  <http://www.w3.org/ns/shacl#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
 
 <http://itb.ec.europa.eu/sample/po> 
 	a owl:Ontology ;
